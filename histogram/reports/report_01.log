@@ -1,0 +1,237 @@
+This is e-pTeX, Version 3.14159265-p3.6-141210-2.6 (utf8.euc) (TeX Live 2015) (preloaded format=platex 2016.10.12)  27 OCT 2016 09:14
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**/Users/dream_exp/Desktop/ImageProcessing/reports/report_01
+(/Users/dream_exp/Desktop/ImageProcessing/reports/report_01.tex
+pLaTeX2e <2006/11/10> (based on LaTeX2e <2015/01/01> patch level 0)
+Babel <3.9l> and hyphenation patterns for 79 languages loaded.
+(/usr/local/texlive/2015/texmf-dist/tex/platex/jsclasses/jsarticle.cls
+Document Class: jsarticle 2014/02/07 okumura
+LaTeX Info: Redefining \rmfamily on input line 352.
+LaTeX Info: Redefining \sffamily on input line 355.
+LaTeX Info: Redefining \ttfamily on input line 358.
+\symmincho=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `mincho' in version `bold'
+(Font)                  JY1/mc/m/n --> JY1/gt/m/n on input line 423.
+LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
+(Font)              scaled to size 9.60999pt on input line 613.
+LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
+(Font)              scaled to size 9.60999pt on input line 613.
+\fullwidth=\dimen118
+LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
+(Font)              scaled to size 7.68799pt on input line 760.
+LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
+(Font)              scaled to size 7.68799pt on input line 760.
+\c@part=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\@abstractbox=\box41
+\c@figure=\count87
+\c@table=\count88
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\js@tocl@width=\dimen119
+\@lnumwidth=\dimen120
+\bibindent=\dimen121
+LaTeX Info: Redefining \TeX on input line 1731.
+LaTeX Info: Redefining \LaTeX on input line 1757.
+LaTeX Info: Redefining \LaTeXe on input line 1782.
+\heisei=\count89
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/listings/listings.sty
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+\lst@mode=\count90
+\lst@gtempboxa=\box42
+\lst@token=\toks16
+\lst@length=\count91
+\lst@currlwidth=\dimen122
+\lst@column=\count92
+\lst@pos=\count93
+\lst@lostspace=\dimen123
+\lst@width=\dimen124
+\lst@newlines=\count94
+\lst@lineno=\count95
+\lst@maxwidth=\dimen125
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2014/09/06 1.5e (Carsten Heinz)
+\c@lstnumber=\count96
+\lst@skipnumbers=\count97
+\lst@framebox=\box43
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2014/09/06 1.5e listings configuration
+))
+Package: listings 2014/09/06 1.5e (Carsten Heinz)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/listings/jlisting.sty
+Package: jlisting 2006/02/20 0.2 (Thor)
+\lst@nextchar=\count98
+\lst@inputfile=\read1
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2014/09/06 1.5e listings language file
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2014/09/06 1.5e (Carsten Heinz)
+)
+(./report_01.aux
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 i
+     bcite{ref1}{1}
+? 
+! Emergency stop.
+ ...                                              
+                                                  
+l.3 i
+     bcite{ref1}{1}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+ 
+Here is how much of TeX's memory you used:
+ 1657 strings out of 493777
+ 23372 string characters out of 6151333
+ 111430 words of memory out of 5000000
+ 5205 multiletter control sequences out of 15000+600000
+ 8380 words of font info for 36 fonts, out of 8000000 for 9000
+ 934 hyphenation exceptions out of 8191
+ 26i,0n,49p,210b,219s stack positions out of 5000i,500n,10000p,200000b,80000s
+No pages of output.
+eX Font Info:    ... okay on input lit line 24.
+\c@lstlisting=\count99
+LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
+(Font)              scaled to size 16.60605pt on input line 28.
+LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
+(Font)              scaled to size 16.60605pt on input line 28.
+LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
+(Font)              scaled to size 11.53198pt on input line 28.
+LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
+(Font)              scaled to size 11.53198pt on input line 28.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 28.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 28.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 28.
+LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
+(Font)              scaled to size 5.76599pt on input line 28.
+ [1
+
+]
+LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
+(Font)              scaled to size 13.83836pt on input line 32.
+LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
+(Font)              scaled to size 13.83836pt on input line 32.
+LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
+(Font)              scaled to size 13.83836pt on input line 32.
+LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
+(Font)              scaled to size 13.83836pt on input line 32.
+ [2]
+LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
+(Font)              scaled to size 8.64899pt on input line 56.
+LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
+(Font)              scaled to size 8.64899pt on input line 56.
+LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
+(Font)              scaled to size 8.64899pt on input line 56.
+LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
+(Font)              scaled to size 8.64899pt on input line 56.
+LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
+(Font)              scaled to size 6.72699pt on input line 57.
+LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
+(Font)              scaled to size 6.72699pt on input line 57.
+LaTeX Font Info:    Font shape `JT1/gt/bx/n' in size <9> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 63.
+LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
+(Font)              scaled to size 8.64899pt on input line 63.
+LaTeX Font Info:    Font shape `JY1/gt/bx/n' in size <9> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 63.
+LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
+(Font)              scaled to size 8.64899pt on input line 63.
+LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <9> not available
+(Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 63.
+LaTeX Font Info:    Font shape `JT1/gt/m/it' in size <9> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 73.
+LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
+(Font)              scaled to size 8.64899pt on input line 73.
+LaTeX Font Info:    Font shape `JY1/gt/m/it' in size <9> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 73.
+LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
+(Font)              scaled to size 8.64899pt on input line 73.
+ [3]
+! Undefined control sequence.
+l.158    \includegraphics
+                         [width=70mm]{cup.eps}
+? 
+! Emergency stop.
+l.158    \includegraphics
+                         [width=70mm]{cup.eps}
+End of file on the terminal!
+
+ 
+Here is how much of TeX's memory you used:
+ 1840 strings out of 493777
+ 25163 string characters out of 6151333
+ 138434 words of memory out of 5000000
+ 5376 multiletter control sequences out of 15000+600000
+ 14247 words of font info for 64 fonts, out of 8000000 for 9000
+ 934 hyphenation exceptions out of 8191
+ 26i,7n,49p,292b,1675s stack positions out of 5000i,500n,10000p,200000b,80000s
+Output written on report_01.dvi (3 pages, 7232 bytes).
+ tried instead on input line 73.
+LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
+(Font)              scaled to size 8.64899pt on inp/m/n' will be
+(Font)              scaled to size 8.64899pt on input line 73.
+ [3] [4]
+
+! LaTeX Error: Cannot determine size of graphic in cup.png (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.160    \includegraphics[width=70mm]{cup.png}
+                                              
+? 
+! Emergency stop.
+ ...                                              
+                                                  
+l.160    \includegraphics[width=70mm]{cup.png}
+                                              
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+ 
+Here is how much of TeX's memory you used:
+ 2129 strings out of 493777
+ 29057 string characters out of 6151333
+ 143218 words of memory out of 5000000
+ 5648 multiletter control sequences out of 15000+600000
+ 14247 words of font info for 64 fonts, out of 8000000 for 9000
+ 934 hyphenation exceptions out of 8191
+ 26i,7n,49p,1194b,1675s stack positions out of 5000i,500n,10000p,200000b,80000s
+Output written on report_01.dvi (4 pages, 10184 bytes).
+hat doesn't work, type  X <return>  to quit.
+
+ 
+Here is how much of TeX's memory you used:
+ 2131 strings out of 493777
+ 29088 string characters out of 6151333
+ 143218 words of memory out of 5000000
+ 5649 multiletter control sequences out of 15000+600000
+ 14836 words of font info for 67 fonts, out of 8000000 for 9000
+ 934 hyphenation exceptions out of 8191
+ 26i,7n,49p,1194b,1675s stack positions out of 5000i,500n,10000p,200000b,80000s
+Output written on report_01.dvi (4 pages, 10244 bytes).

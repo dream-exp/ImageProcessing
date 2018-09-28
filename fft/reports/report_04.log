@@ -1,0 +1,224 @@
+This is e-pTeX, Version 3.14159265-p3.6-141210-2.6 (utf8.euc) (TeX Live 2015) (preloaded format=platex 2016.10.12)  22 DEC 2016 11:47
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**/Users/dream_exp/Desktop/ImageProcessing/fft/reports/report_04
+(/Users/dream_exp/Desktop/ImageProcessing/fft/reports/report_04.tex
+pLaTeX2e <2006/11/10> (based on LaTeX2e <2015/01/01> patch level 0)
+Babel <3.9l> and hyphenation patterns for 79 languages loaded.
+(/usr/local/texlive/2015/texmf-dist/tex/platex/jsclasses/jsarticle.cls
+Document Class: jsarticle 2014/02/07 okumura
+LaTeX Info: Redefining \rmfamily on input line 352.
+LaTeX Info: Redefining \sffamily on input line 355.
+LaTeX Info: Redefining \ttfamily on input line 358.
+\symmincho=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `mincho' in version `bold'
+(Font)                  JY1/mc/m/n --> JY1/gt/m/n on input line 423.
+LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
+(Font)              scaled to size 9.60999pt on input line 613.
+LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
+(Font)              scaled to size 9.60999pt on input line 613.
+\fullwidth=\dimen118
+LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
+(Font)              scaled to size 7.68799pt on input line 760.
+LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
+(Font)              scaled to size 7.68799pt on input line 760.
+\c@part=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\@abstractbox=\box41
+\c@figure=\count87
+\c@table=\count88
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\js@tocl@width=\dimen119
+\@lnumwidth=\dimen120
+\bibindent=\dimen121
+LaTeX Info: Redefining \TeX on input line 1731.
+LaTeX Info: Redefining \LaTeX on input line 1757.
+LaTeX Info: Redefining \LaTeXe on input line 1782.
+\heisei=\count89
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: dvipdfmx.def on input line 94.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/dvipdfmx-def/dvipdfmx.def
+File: dvipdfmx.def 2015/03/26 v4.04 LaTeX color/graphics driver for dvipdfmx (T
+eX Live/ChoF)
+))
+\Gin@req@height=\dimen122
+\Gin@req@width=\dimen123
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count90
+\lst@gtempboxa=\box42
+\lst@token=\toks16
+\lst@length=\count91
+\lst@currlwidth=\dimen124
+\lst@column=\count92
+\lst@pos=\count93
+\lst@lostspace=\dimen125
+\lst@width=\dimen126
+\lst@newlines=\count94
+\lst@lineno=\count95
+\lst@maxwidth=\dimen127
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2014/09/06 1.5e (Carsten Heinz)
+\c@lstnumber=\count96
+\lst@skipnumbers=\count97
+\lst@framebox=\box43
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2014/09/06 1.5e listings configuration
+))
+Package: listings 2014/09/06 1.5e (Carsten Heinz)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/listings/jlisting.sty
+Package: jlisting 2006/02/20 0.2 (Thor)
+\lst@nextchar=\count98
+\lst@inputfile=\read1
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count99
+\float@exts=\toks17
+\float@box=\box44
+\@float@everytoks=\toks18
+\@floatcapt=\box45
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2014/09/06 1.5e listings language file
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2014/09/06 1.5e (Carsten Heinz)
+)
+(./report_04.aux
+
+LaTeX Warning: Label `' multiply defined.
+
+)
+\openout1 = `report_04.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+\c@lstlisting=\count100
+LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
+(Font)              scaled to size 16.60605pt on input line 29.
+LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
+(Font)              scaled to size 16.60605pt on input line 29.
+LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
+(Font)              scaled to size 11.53198pt on input line 29.
+LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
+(Font)              scaled to size 11.53198pt on input line 29.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 29.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 29.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 29.
+LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
+(Font)              scaled to size 5.76599pt on input line 29.
+ [1
+
+]
+LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
+(Font)              scaled to size 13.83836pt on input line 33.
+LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
+(Font)              scaled to size 13.83836pt on input line 33.
+LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
+(Font)              scaled to size 13.83836pt on input line 33.
+LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
+(Font)              scaled to size 13.83836pt on input line 33.
+ [2]
+LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
+(Font)              scaled to size 8.64899pt on input line 56.
+LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
+(Font)              scaled to size 8.64899pt on input line 56.
+LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
+(Font)              scaled to size 8.64899pt on input line 56.
+LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
+(Font)              scaled to size 8.64899pt on input line 56.
+LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
+(Font)              scaled to size 6.72699pt on input line 57.
+LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
+(Font)              scaled to size 6.72699pt on input line 57.
+LaTeX Font Info:    Font shape `JT1/gt/bx/n' in size <9> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 66.
+LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
+(Font)              scaled to size 8.64899pt on input line 66.
+LaTeX Font Info:    Font shape `JY1/gt/bx/n' in size <9> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 66.
+LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
+(Font)              scaled to size 8.64899pt on input line 66.
+LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <9> not available
+(Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 66.
+ [3]
+LaTeX Font Info:    Font shape `JT1/gt/m/it' in size <9> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 110.
+LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
+(Font)              scaled nt Info:    Font shape `JY1/gt/m/it' in size <9> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 110.
+LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
+(Font)              scaled to size 8.64899pt on input line 110.
+ [4] [5] [6] [7]
+
+! LaTeX Error: Cannot determine size of graphic in ../cup.pgm (no BoundingBox).
+
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.308     \includegraphics{../cup.pgm}
+                                      
+? 
+! Emergency stop.
+ ...                                              
+                                                  
+l.308     \includegraphics{../cup.pgm}
+                                      
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+ 
+Here is how much of TeX's memory you used:
+ 2286 strings out of 493777
+ 30874 string characters out of 6151333
+ 164543 words of memory out of 5000000
+ 5799 multiletter control sequences out of 15000+600000
+ 14247 words of font info for 64 fonts, out of 8000000 for 9000
+ 934 hyphenation exceptions out of 8191
+ 26i,7n,49p,71798b,1675s stack positions out of 5000i,500n,10000p,200000b,80000s
+Output written on report_04.dvi (7 pages, 25552 bytes).
